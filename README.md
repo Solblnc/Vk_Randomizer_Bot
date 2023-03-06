@@ -20,6 +20,7 @@ __Example of a result:__
 
 ![](img_1.png)
 3. Set your requirements by flag -winners="number of winners" (run flag -help for help))
+
 4. Enjoy the result!
 ***
 ### Future plans 
