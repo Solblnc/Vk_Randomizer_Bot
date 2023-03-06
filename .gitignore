@@ -1,6 +1,6 @@
 .idea
 .env
-.img.png
-.img_1.png
-.users.csv
+img_1.png
+img.png
+users.csv
 .bin
